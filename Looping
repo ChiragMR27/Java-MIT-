@@ -1,0 +1,14 @@
+package Day4;
+
+public class LoopingEx {
+public static void main(String[] args)
+{
+	int i=10;
+	int sum =0;
+	for (int n=1;n<=5;n++)
+	{
+		sum=sum+i;
+	System.out.println(sum);	
+	}
+}
+}
